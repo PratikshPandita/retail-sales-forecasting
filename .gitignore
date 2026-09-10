@@ -1,0 +1,6 @@
+# Raw and processed data are too large for git (93-147MB) — regenerate locally
+# by following the "Reproducing this analysis" section in the README.
+data/*.csv
+data/*.db
+__pycache__/
+*.pyc
